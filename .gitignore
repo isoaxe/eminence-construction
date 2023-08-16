@@ -1,0 +1,8 @@
+# Build files
+/node_modules
+/.next
+/.vercel
+
+# Miscellaneous
+.DS_Store
+.env.local
